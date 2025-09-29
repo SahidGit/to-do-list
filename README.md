@@ -14,16 +14,6 @@ A dynamic, front-end-only To-Do List built with **HTML**, **CSS**, and **Vanilla
 
 ---
 
-## 📁 Project Structure
-to-do-list/ 
-├── index.html # Main HTML file 
-├── style.css # Styling for layout and task states 
-└── script.js # Core JavaScript logic
-
-
-
-
-
 ---
 
 ## 🛠️ Technologies Used
@@ -57,4 +47,5 @@ This project demonstrates:
 1. Clone the repo:
    ```bash
    git clone https://github.com/SahidGit/to-do-list.git
+
 
